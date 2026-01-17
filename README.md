@@ -60,7 +60,7 @@ Cloud & Agentic AI Data Engineer with **~3 years of experience** designing scala
 
 **Cloud Data Engineer** | *Apr 2023 – Present*
 
-#### Procurement Incremental Data Pipeline (Client: GE Aerospace)
+#### Procurement Incremental Data Pipeline
 **Tech Stack**: PySpark, AWS Glue, Lambda, Kinesis, Amazon Redshift, EventBridge, AWS Step Function, SNS, Databricks
 
 - Designed and implemented **event-driven ETL pipelines** using AWS Glue, Lambda, Amazon Kinesis, and Amazon Redshift, enabling both **batch processing** and **near real-time streaming** data ingestion for analytics & reporting
